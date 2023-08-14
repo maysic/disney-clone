@@ -2,7 +2,7 @@
 
 ## Deploy
 
-[DisneyClone](https://disney-clone-2d98d.web.app/)
+[Развернутое приложение](https://disney-clone-2d98d.web.app/)
 
 
 
